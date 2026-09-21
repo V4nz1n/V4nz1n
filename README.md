@@ -5,7 +5,7 @@
 
 ### 🧭 Sobre mim
 
-Sou estudante de Engenharia da Computação na **PUC Goiás** e estagiário de TI na **Liberdade Médica** — do tipo "faz de tudo": banco de dados, infraestrutura com Docker, automações, monitoramento, um pouco de cada coisa no dia a dia.
+Sou estudante de Engenharia da Computação na **PUC Goiás** e estagiário de TI na **Liberdade Médica** — banco de dados, infraestrutura com Docker, automações, monitoramento, processos de ETL utilizando dlt e dbt com python
 
 Estou estudando para fortalecer toda a minha base de desenvolvimento e, no futuro, me tornar um ótimo **arquiteto de software**.
 
