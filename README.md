@@ -3,7 +3,7 @@
 
 ---
 
-### 🧭 Sobre mim
+### Sobre mim
 
 Sou estudante de Engenharia da Computação na **PUC Goiás** e estagiário de TI na **Liberdade Médica** — banco de dados, infraestrutura com Docker, automações, monitoramento, processos de ETL utilizando dlt e dbt com python
 
@@ -11,7 +11,7 @@ Estou estudando para fortalecer toda a minha base de desenvolvimento e, no futur
 
 ---
 
-### 🛠️ Stack e ferramentas
+### Stack e ferramentas
 
 **Linguagens**
 <p>
@@ -36,11 +36,4 @@ Estou estudando para fortalecer toda a minha base de desenvolvimento e, no futur
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
-**Ferramentas & Versionamento**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
